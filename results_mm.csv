@@ -1,0 +1,299 @@
+year,driverRef,constructorRef,grid,position,driverName,constructorName
+2008,raikkonen,ferrari,2,1.0,Kimi Räikkönen,Ferrari
+2008,kubica,bmw_sauber,4,2.0,Robert Kubica,BMW Sauber
+2008,kovalainen,mclaren,8,3.0,Heikki Kovalainen,McLaren
+2008,trulli,toyota,3,4.0,Jarno Trulli,Toyota
+2008,hamilton,mclaren,9,5.0,Lewis Hamilton,McLaren
+2008,heidfeld,bmw_sauber,5,6.0,Nick Heidfeld,BMW Sauber
+2008,webber,red_bull,6,7.0,Mark Webber,Red Bull
+2008,alonso,renault,7,8.0,Fernando Alonso,Renault
+2008,coulthard,red_bull,12,9.0,David Coulthard,Red Bull
+2008,button,honda,11,10.0,Jenson Button,Honda
+2008,piquet_jr,renault,13,11.0,Nelson Piquet Jr.,Renault
+2008,fisichella,force_india,17,12.0,Giancarlo Fisichella,Force India
+2008,barrichello,honda,14,13.0,Rubens Barrichello,Honda
+2008,rosberg,williams,16,14.0,Nico Rosberg,Williams
+2008,davidson,super_aguri,21,15.0,Anthony Davidson,Super Aguri
+2008,sato,super_aguri,19,16.0,Takuma Sato,Super Aguri
+2008,nakajima,williams,22,17.0,Kazuki Nakajima,Williams
+2007,alonso,mclaren,2,1.0,Fernando Alonso,McLaren
+2007,hamilton,mclaren,4,2.0,Lewis Hamilton,McLaren
+2007,raikkonen,ferrari,3,3.0,Kimi Räikkönen,Ferrari
+2007,heidfeld,bmw_sauber,5,4.0,Nick Heidfeld,BMW Sauber
+2007,massa,ferrari,1,5.0,Felipe Massa,Ferrari
+2007,fisichella,renault,12,6.0,Giancarlo Fisichella,Renault
+2007,trulli,toyota,8,7.0,Jarno Trulli,Toyota
+2007,kovalainen,renault,11,8.0,Heikki Kovalainen,Renault
+2007,wurz,williams,19,9.0,Alexander Wurz,Williams
+2007,webber,red_bull,10,10.0,Mark Webber,Red Bull
+2007,barrichello,honda,22,11.0,Rubens Barrichello,Honda
+2007,button,honda,15,12.0,Jenson Button,Honda
+2007,sato,super_aguri,14,13.0,Takuma Sato,Super Aguri
+2007,speed,toro_rosso,17,14.0,Scott Speed,Toro Rosso
+2007,ralf_schumacher,toyota,9,15.0,Ralf Schumacher,Toyota
+2007,davidson,super_aguri,18,16.0,Anthony Davidson,Super Aguri
+2007,liuzzi,toro_rosso,16,17.0,Vitantonio Liuzzi,Toro Rosso
+2007,kubica,bmw_sauber,7,18.0,Robert Kubica,BMW Sauber
+2006,fisichella,renault,1,1.0,Giancarlo Fisichella,Renault
+2006,alonso,renault,7,2.0,Fernando Alonso,Renault
+2006,button,honda,2,3.0,Jenson Button,Honda
+2006,montoya,mclaren,5,4.0,Juan Pablo Montoya,McLaren
+2006,massa,ferrari,21,5.0,Felipe Massa,Ferrari
+2006,michael_schumacher,ferrari,14,6.0,Michael Schumacher,Ferrari
+2006,villeneuve,bmw_sauber,10,7.0,Jacques Villeneuve,BMW Sauber
+2006,ralf_schumacher,toyota,22,8.0,Ralf Schumacher,Toyota
+2006,trulli,toyota,9,9.0,Jarno Trulli,Toyota
+2006,barrichello,honda,20,10.0,Rubens Barrichello,Honda
+2006,liuzzi,toro_rosso,13,11.0,Vitantonio Liuzzi,Toro Rosso
+2006,albers,mf1,15,12.0,Christijan Albers,MF1
+2006,monteiro,mf1,16,13.0,Tiago Monteiro,MF1
+2006,sato,super_aguri,17,14.0,Takuma Sato,Super Aguri
+2005,alonso,renault,1,1.0,Fernando Alonso,Renault
+2005,trulli,toyota,2,2.0,Jarno Trulli,Toyota
+2005,heidfeld,williams,10,3.0,Nick Heidfeld,Williams
+2005,montoya,mclaren,11,4.0,Juan Pablo Montoya,McLaren
+2005,ralf_schumacher,toyota,5,5.0,Ralf Schumacher,Toyota
+2005,coulthard,red_bull,8,6.0,David Coulthard,Red Bull
+2005,michael_schumacher,ferrari,13,7.0,Michael Schumacher,Ferrari
+2005,klien,red_bull,7,8.0,Christian Klien,Red Bull
+2005,raikkonen,mclaren,6,9.0,Kimi Räikkönen,McLaren
+2005,massa,sauber,14,10.0,Felipe Massa,Sauber
+2005,karthikeyan,jordan,17,11.0,Narain Karthikeyan,Jordan
+2005,monteiro,jordan,18,12.0,Tiago Monteiro,Jordan
+2005,albers,minardi,19,13.0,Christijan Albers,Minardi
+2004,michael_schumacher,ferrari,1,1.0,Michael Schumacher,Ferrari
+2004,montoya,williams,4,2.0,Juan Pablo Montoya,Williams
+2004,button,bar,6,3.0,Jenson Button,BAR
+2004,barrichello,ferrari,3,4.0,Rubens Barrichello,Ferrari
+2004,trulli,renault,8,5.0,Jarno Trulli,Renault
+2004,coulthard,mclaren,9,6.0,David Coulthard,McLaren
+2004,alonso,renault,19,7.0,Fernando Alonso,Renault
+2004,massa,sauber,11,8.0,Felipe Massa,Sauber
+2004,matta,toyota,10,9.0,Cristiano da Matta,Toyota
+2004,klien,jaguar,13,10.0,Christian Klien,Jaguar
+2004,fisichella,sauber,12,11.0,Giancarlo Fisichella,Sauber
+2004,panis,toyota,14,12.0,Olivier Panis,Toyota
+2004,pantano,jordan,18,13.0,Giorgio Pantano,Jordan
+2004,bruni,minardi,16,14.0,Gianmaria Bruni,Minardi
+2004,sato,bar,20,15.0,Takuma Sato,BAR
+2004,baumgartner,minardi,17,16.0,Zsolt Baumgartner,Minardi
+2003,raikkonen,mclaren,7,1.0,Kimi Räikkönen,McLaren
+2003,barrichello,ferrari,5,2.0,Rubens Barrichello,Ferrari
+2003,alonso,renault,1,3.0,Fernando Alonso,Renault
+2003,ralf_schumacher,williams,17,4.0,Ralf Schumacher,Williams
+2003,trulli,renault,2,5.0,Jarno Trulli,Renault
+2003,michael_schumacher,ferrari,3,6.0,Michael Schumacher,Ferrari
+2003,button,bar,9,7.0,Jenson Button,BAR
+2003,heidfeld,sauber,6,8.0,Nick Heidfeld,Sauber
+2003,frentzen,sauber,13,9.0,Heinz-Harald Frentzen,Sauber
+2003,firman,jordan,20,10.0,Ralph Firman,Jordan
+2003,matta,toyota,11,11.0,Cristiano da Matta,Toyota
+2003,montoya,williams,8,12.0,Juan Pablo Montoya,Williams
+2003,verstappen,minardi,18,13.0,Jos Verstappen,Minardi
+2002,ralf_schumacher,williams,4,1.0,Ralf Schumacher,Williams
+2002,montoya,williams,2,2.0,Juan Pablo Montoya,Williams
+2002,michael_schumacher,ferrari,1,3.0,Michael Schumacher,Ferrari
+2002,button,renault,8,4.0,Jenson Button,Renault
+2002,heidfeld,sauber,7,5.0,Nick Heidfeld,Sauber
+2002,massa,sauber,14,6.0,Felipe Massa,Sauber
+2002,mcnish,toyota,19,7.0,Allan McNish,Toyota
+2002,villeneuve,bar,13,8.0,Jacques Villeneuve,BAR
+2002,sato,jordan,15,9.0,Takuma Sato,Jordan
+2002,rosa,jaguar,17,10.0,Pedro de la Rosa,Jaguar
+2002,frentzen,arrows,11,11.0,Heinz-Harald Frentzen,Arrows
+2002,salo,toyota,10,12.0,Mika Salo,Toyota
+2002,fisichella,jordan,9,13.0,Giancarlo Fisichella,Jordan
+2001,michael_schumacher,ferrari,1,1.0,Michael Schumacher,Ferrari
+2001,barrichello,ferrari,2,2.0,Rubens Barrichello,Ferrari
+2001,coulthard,mclaren,8,3.0,David Coulthard,McLaren
+2001,frentzen,jordan,9,4.0,Heinz-Harald Frentzen,Jordan
+2001,ralf_schumacher,williams,3,5.0,Ralf Schumacher,Williams
+2001,hakkinen,mclaren,4,6.0,Mika Häkkinen,McLaren
+2001,verstappen,arrows,18,7.0,Jos Verstappen,Arrows
+2001,trulli,jordan,5,8.0,Jarno Trulli,Jordan
+2001,alesi,prost,13,9.0,Jean Alesi,Prost
+2001,burti,jaguar,15,10.0,Luciano Burti,Jaguar
+2001,button,benetton,17,11.0,Jenson Button,Benetton
+2001,mazzacane,prost,19,12.0,Gastón Mazzacane,Prost
+2001,alonso,minardi,21,13.0,Fernando Alonso,Minardi
+2001,marques,minardi,20,14.0,Tarso Marques,Minardi
+2000,michael_schumacher,ferrari,1,1.0,Michael Schumacher,Ferrari
+2000,coulthard,mclaren,3,2.0,David Coulthard,McLaren
+2000,barrichello,ferrari,4,3.0,Rubens Barrichello,Ferrari
+2000,hakkinen,mclaren,2,4.0,Mika Häkkinen,McLaren
+2000,villeneuve,bar,6,5.0,Jacques Villeneuve,BAR
+2000,irvine,jaguar,7,6.0,Eddie Irvine,Jaguar
+2000,wurz,benetton,5,7.0,Alexander Wurz,Benetton
+2000,salo,sauber,17,8.0,Mika Salo,Sauber
+2000,fisichella,benetton,13,9.0,Giancarlo Fisichella,Benetton
+2000,verstappen,arrows,15,10.0,Jos Verstappen,Arrows
+2000,alesi,prost,18,11.0,Jean Alesi,Prost
+2000,trulli,jordan,9,12.0,Jarno Trulli,Jordan
+2000,mazzacane,minardi,22,13.0,Gastón Mazzacane,Minardi
+1999,irvine,ferrari,2,1.0,Eddie Irvine,Ferrari
+1999,michael_schumacher,ferrari,1,2.0,Michael Schumacher,Ferrari
+1999,hakkinen,mclaren,4,3.0,Mika Häkkinen,McLaren
+1999,herbert,stewart,5,4.0,Johnny Herbert,Stewart
+1999,barrichello,stewart,6,5.0,Rubens Barrichello,Stewart
+1999,frentzen,jordan,14,6.0,Heinz-Harald Frentzen,Jordan
+1999,alesi,sauber,15,7.0,Jean Alesi,Sauber
+1999,wurz,benetton,7,8.0,Alexander Wurz,Benetton
+1999,gene,minardi,19,9.0,Marc Gené,Minardi
+1999,zanardi,williams,16,10.0,Alessandro Zanardi,Williams
+1999,fisichella,benetton,11,11.0,Giancarlo Fisichella,Benetton
+2009,button,brawn,1,1.0,Jenson Button,Brawn
+2009,heidfeld,bmw_sauber,10,2.0,Nick Heidfeld,BMW Sauber
+2009,glock,toyota,3,3.0,Timo Glock,Toyota
+2009,trulli,toyota,2,4.0,Jarno Trulli,Toyota
+2009,barrichello,brawn,8,5.0,Rubens Barrichello,Brawn
+2009,webber,red_bull,5,6.0,Mark Webber,Red Bull
+2009,hamilton,mclaren,12,7.0,Lewis Hamilton,McLaren
+2009,rosberg,williams,4,8.0,Nico Rosberg,Williams
+2009,massa,ferrari,16,9.0,Felipe Massa,Ferrari
+2009,bourdais,toro_rosso,15,10.0,Sébastien Bourdais,Toro Rosso
+2009,alonso,renault,9,11.0,Fernando Alonso,Renault
+2009,nakajima,williams,11,12.0,Kazuki Nakajima,Williams
+2009,piquet_jr,renault,17,13.0,Nelson Piquet Jr.,Renault
+2009,raikkonen,ferrari,7,14.0,Kimi Räikkönen,Ferrari
+2009,vettel,red_bull,13,15.0,Sebastian Vettel,Red Bull
+2009,buemi,toro_rosso,20,16.0,Sébastien Buemi,Toro Rosso
+2009,sutil,force_india,19,17.0,Adrian Sutil,Force India
+2009,fisichella,force_india,18,18.0,Giancarlo Fisichella,Force India
+2010,vettel,red_bull,3,1.0,Sebastian Vettel,Red Bull
+2010,webber,red_bull,1,2.0,Mark Webber,Red Bull
+2010,rosberg,mercedes,2,3.0,Nico Rosberg,Mercedes
+2010,kubica,renault,6,4.0,Robert Kubica,Renault
+2010,sutil,force_india,4,5.0,Adrian Sutil,Force India
+2010,hamilton,mclaren,20,6.0,Lewis Hamilton,McLaren
+2010,massa,ferrari,21,7.0,Felipe Massa,Ferrari
+2010,button,mclaren,17,8.0,Jenson Button,McLaren
+2010,alguersuari,toro_rosso,14,9.0,Jaime Alguersuari,Toro Rosso
+2010,hulkenberg,williams,5,10.0,Nico Hülkenberg,Williams
+2010,buemi,toro_rosso,13,11.0,Sébastien Buemi,Toro Rosso
+2010,barrichello,williams,7,12.0,Rubens Barrichello,Williams
+2010,alonso,ferrari,19,13.0,Fernando Alonso,Ferrari
+2010,grassi,virgin,24,14.0,Lucas di Grassi,Virgin
+2010,chandhok,hrt,22,15.0,Karun Chandhok,HRT
+2010,bruno_senna,hrt,23,16.0,Bruno Senna,HRT
+2010,trulli,lotus_racing,18,17.0,Jarno Trulli,Lotus
+2011,vettel,red_bull,1,1.0,Sebastian Vettel,Red Bull
+2011,button,mclaren,4,2.0,Jenson Button,McLaren
+2011,heidfeld,renault,6,3.0,Nick Heidfeld,Renault
+2011,webber,red_bull,3,4.0,Mark Webber,Red Bull
+2011,massa,ferrari,7,5.0,Felipe Massa,Ferrari
+2011,alonso,ferrari,5,6.0,Fernando Alonso,Ferrari
+2011,kobayashi,sauber,10,7.0,Kamui Kobayashi,Sauber
+2011,hamilton,mclaren,2,8.0,Lewis Hamilton,McLaren
+2011,michael_schumacher,mercedes,11,9.0,Michael Schumacher,Mercedes
+2011,resta,force_india,14,10.0,Paul di Resta,Force India
+2011,sutil,force_india,17,11.0,Adrian Sutil,Force India
+2011,rosberg,mercedes,9,12.0,Nico Rosberg,Mercedes
+2011,buemi,toro_rosso,12,13.0,Sébastien Buemi,Toro Rosso
+2011,alguersuari,toro_rosso,13,14.0,Jaime Alguersuari,Toro Rosso
+2011,kovalainen,lotus_racing,19,15.0,Heikki Kovalainen,Lotus
+2011,glock,virgin,21,16.0,Timo Glock,Virgin
+2011,petrov,renault,8,17.0,Vitaly Petrov,Renault
+2012,alonso,ferrari,8,1.0,Fernando Alonso,Ferrari
+2012,perez,sauber,9,2.0,Sergio Pérez,Sauber
+2012,hamilton,mclaren,1,3.0,Lewis Hamilton,McLaren
+2012,webber,red_bull,4,4.0,Mark Webber,Red Bull
+2012,raikkonen,lotus_f1,10,5.0,Kimi Räikkönen,Lotus F1
+2012,bruno_senna,williams,13,6.0,Bruno Senna,Williams
+2012,resta,force_india,14,7.0,Paul di Resta,Force India
+2012,vergne,toro_rosso,18,8.0,Jean-Éric Vergne,Toro Rosso
+2012,hulkenberg,force_india,16,9.0,Nico Hülkenberg,Force India
+2012,michael_schumacher,mercedes,3,10.0,Michael Schumacher,Mercedes
+2012,vettel,red_bull,5,11.0,Sebastian Vettel,Red Bull
+2012,ricciardo,toro_rosso,15,12.0,Daniel Ricciardo,Toro Rosso
+2012,rosberg,mercedes,7,13.0,Nico Rosberg,Mercedes
+2012,button,mclaren,2,14.0,Jenson Button,McLaren
+2012,massa,ferrari,12,15.0,Felipe Massa,Ferrari
+2012,petrov,caterham,19,16.0,Vitaly Petrov,Caterham
+2012,glock,marussia,20,17.0,Timo Glock,Marussia
+2012,kovalainen,caterham,24,18.0,Heikki Kovalainen,Caterham
+2012,maldonado,williams,11,19.0,Pastor Maldonado,Williams
+2012,pic,marussia,21,20.0,Charles Pic,Marussia
+2012,karthikeyan,hrt,23,21.0,Narain Karthikeyan,HRT
+2012,rosa,hrt,22,22.0,Pedro de la Rosa,HRT
+2013,vettel,red_bull,1,1.0,Sebastian Vettel,Red Bull
+2013,webber,red_bull,5,2.0,Mark Webber,Red Bull
+2013,hamilton,mercedes,4,3.0,Lewis Hamilton,Mercedes
+2013,rosberg,mercedes,6,4.0,Nico Rosberg,Mercedes
+2013,massa,ferrari,2,5.0,Felipe Massa,Ferrari
+2013,grosjean,lotus_f1,11,6.0,Romain Grosjean,Lotus F1
+2013,raikkonen,lotus_f1,10,7.0,Kimi Räikkönen,Lotus F1
+2013,hulkenberg,sauber,12,8.0,Nico Hülkenberg,Sauber
+2013,perez,mclaren,9,9.0,Sergio Pérez,McLaren
+2013,vergne,toro_rosso,17,10.0,Jean-Éric Vergne,Toro Rosso
+2013,bottas,williams,18,11.0,Valtteri Bottas,Williams
+2013,gutierrez,sauber,14,12.0,Esteban Gutiérrez,Sauber
+2013,jules_bianchi,marussia,19,13.0,Jules Bianchi,Marussia
+2013,pic,caterham,20,14.0,Charles Pic,Caterham
+2013,garde,caterham,22,15.0,Giedo van der Garde,Caterham
+2013,chilton,marussia,21,16.0,Max Chilton,Marussia
+2013,button,mclaren,7,17.0,Jenson Button,McLaren
+2013,ricciardo,toro_rosso,13,18.0,Daniel Ricciardo,Toro Rosso
+2014,hamilton,mercedes,1,1.0,Lewis Hamilton,Mercedes
+2014,rosberg,mercedes,3,2.0,Nico Rosberg,Mercedes
+2014,vettel,red_bull,2,3.0,Sebastian Vettel,Red Bull
+2014,alonso,ferrari,4,4.0,Fernando Alonso,Ferrari
+2014,hulkenberg,force_india,7,5.0,Nico Hülkenberg,Force India
+2014,button,mclaren,10,6.0,Jenson Button,McLaren
+2014,massa,williams,13,7.0,Felipe Massa,Williams
+2014,bottas,williams,18,8.0,Valtteri Bottas,Williams
+2014,kevin_magnussen,mclaren,8,9.0,Kevin Magnussen,McLaren
+2014,kvyat,toro_rosso,11,10.0,Daniil Kvyat,Toro Rosso
+2014,grosjean,lotus_f1,15,11.0,Romain Grosjean,Lotus F1
+2014,raikkonen,ferrari,6,12.0,Kimi Räikkönen,Ferrari
+2014,kobayashi,caterham,20,13.0,Kamui Kobayashi,Caterham
+2014,ericsson,caterham,22,14.0,Marcus Ericsson,Caterham
+2014,chilton,marussia,21,15.0,Max Chilton,Marussia
+2015,vettel,ferrari,2,1.0,Sebastian Vettel,Ferrari
+2015,hamilton,mercedes,1,2.0,Lewis Hamilton,Mercedes
+2015,rosberg,mercedes,3,3.0,Nico Rosberg,Mercedes
+2015,raikkonen,ferrari,11,4.0,Kimi Räikkönen,Ferrari
+2015,bottas,williams,8,5.0,Valtteri Bottas,Williams
+2015,massa,williams,7,6.0,Felipe Massa,Williams
+2015,max_verstappen,toro_rosso,6,7.0,Max Verstappen,Toro Rosso
+2015,sainz,toro_rosso,15,8.0,Carlos Sainz,Toro Rosso
+2015,kvyat,red_bull,5,9.0,Daniil Kvyat,Red Bull
+2015,ricciardo,red_bull,4,10.0,Daniel Ricciardo,Red Bull
+2015,grosjean,lotus_f1,10,11.0,Romain Grosjean,Lotus F1
+2015,nasr,sauber,16,12.0,Felipe Nasr,Sauber
+2015,perez,force_india,14,13.0,Sergio Pérez,Force India
+2015,hulkenberg,force_india,13,14.0,Nico Hülkenberg,Force India
+2015,merhi,manor,19,15.0,Roberto Merhi,Manor Marussia
+2016,ricciardo,red_bull,4,1.0,Daniel Ricciardo,Red Bull
+2016,max_verstappen,red_bull,3,2.0,Max Verstappen,Red Bull
+2016,rosberg,mercedes,2,3.0,Nico Rosberg,Mercedes
+2016,raikkonen,ferrari,6,4.0,Kimi Räikkönen,Ferrari
+2016,bottas,williams,11,5.0,Valtteri Bottas,Williams
+2016,perez,force_india,7,6.0,Sergio Pérez,Force India
+2016,alonso,mclaren,22,7.0,Fernando Alonso,McLaren
+2016,hulkenberg,force_india,8,8.0,Nico Hülkenberg,Force India
+2016,button,mclaren,9,9.0,Jenson Button,McLaren
+2016,jolyon_palmer,renault,19,10.0,Jolyon Palmer,Renault
+2016,sainz,toro_rosso,16,11.0,Carlos Sainz,Toro Rosso
+2016,ericsson,sauber,17,12.0,Marcus Ericsson,Sauber
+2016,massa,williams,10,13.0,Felipe Massa,Williams
+2016,kvyat,toro_rosso,15,14.0,Daniil Kvyat,Toro Rosso
+2016,wehrlein,manor,21,15.0,Pascal Wehrlein,Manor Marussia
+2016,ocon,manor,20,16.0,Esteban Ocon,Manor Marussia
+2017,max_verstappen,red_bull,3,1.0,Max Verstappen,Red Bull
+2017,hamilton,mercedes,1,2.0,Lewis Hamilton,Mercedes
+2017,ricciardo,red_bull,4,3.0,Daniel Ricciardo,Red Bull
+2017,vettel,ferrari,20,4.0,Sebastian Vettel,Ferrari
+2017,bottas,mercedes,5,5.0,Valtteri Bottas,Mercedes
+2017,perez,force_india,9,6.0,Sergio Pérez,Force India
+2017,vandoorne,mclaren,7,7.0,Stoffel Vandoorne,McLaren
+2017,stroll,williams,13,8.0,Lance Stroll,Williams
+2017,massa,williams,11,9.0,Felipe Massa,Williams
+2017,ocon,force_india,6,10.0,Esteban Ocon,Force India
+2017,alonso,mclaren,10,11.0,Fernando Alonso,McLaren
+2017,kevin_magnussen,haas,17,12.0,Kevin Magnussen,Haas F1 Team
+2017,grosjean,haas,16,13.0,Romain Grosjean,Haas F1 Team
+2017,gasly,toro_rosso,15,14.0,Pierre Gasly,Toro Rosso
+2017,jolyon_palmer,renault,12,15.0,Jolyon Palmer,Renault
+2017,hulkenberg,renault,8,16.0,Nico Hülkenberg,Renault
+2017,wehrlein,sauber,18,17.0,Pascal Wehrlein,Sauber
+2017,ericsson,sauber,19,18.0,Marcus Ericsson,Sauber

@@ -1,0 +1,206 @@
+constructorStandingsId,raceId,constructorId,points,position,positionText,wins,year,constructorRef,name,nationality
+7,19,1,24.0,1,1,1,2008,mclaren,McLaren,British
+8,19,2,19.0,2,2,0,2008,bmw_sauber,BMW Sauber,German
+9,19,3,9.0,4,4,0,2008,williams,Williams,British
+10,19,4,6.0,5,5,0,2008,renault,Renault,French
+11,19,5,2.0,8,8,0,2008,toro_rosso,Toro Rosso,Italian
+12,19,6,11.0,3,3,1,2008,ferrari,Ferrari,Italian
+13,19,7,5.0,6,6,0,2008,toyota,Toyota,Japanese
+14,19,9,2.0,7,7,0,2008,red_bull,Red Bull,Austrian
+15,19,11,0.0,9,9,0,2008,honda,Honda,Japanese
+16,19,10,0.0,10,10,0,2008,force_india,Force India,Indian
+17,19,8,0.0,11,11,0,2008,super_aguri,Super Aguri,Japanese
+25753,37,5,0.0,9,9,0,2007,toro_rosso,Toro Rosso,Italian
+25752,37,9,0.0,6,6,0,2007,red_bull,Red Bull,Austrian
+25751,37,8,0.0,8,8,0,2007,super_aguri,Super Aguri,Japanese
+25750,37,11,0.0,7,7,0,2007,honda,Honda,Japanese
+25749,37,7,3.0,4,4,0,2007,toyota,Toyota,Japanese
+25748,37,3,2.0,5,5,0,2007,williams,Williams,British
+25747,37,4,8.0,3,3,0,2007,renault,Renault,French
+25746,37,2,10.0,2,2,0,2007,bmw_sauber,BMW Sauber,German
+6338,54,8,0.0,11,11,0,2006,super_aguri,Super Aguri,Japanese
+6337,54,13,0.0,10,10,0,2006,mf1,MF1,Russian
+6336,54,7,1.0,7,7,0,2006,toyota,Toyota,Japanese
+6335,54,2,2.0,6,6,0,2006,bmw_sauber,BMW Sauber,German
+6334,54,5,0.0,9,9,0,2006,toro_rosso,Toro Rosso,Italian
+6333,54,9,1.0,8,8,0,2006,red_bull,Red Bull,Austrian
+6332,54,3,5.0,5,5,0,2006,williams,Williams,British
+6331,54,11,11.0,4,4,0,2006,honda,Honda,Japanese
+6330,54,1,15.0,3,3,0,2006,mclaren,McLaren,British
+6329,54,6,15.0,2,2,0,2006,ferrari,Ferrari,Italian
+6328,54,4,28.0,1,1,2,2006,renault,Renault,French
+27961,72,17,0.0,8,8,0,2005,jordan,Jordan,Irish
+27960,72,16,0.0,10,10,0,2005,bar,BAR,British
+27959,72,15,0.0,7,7,0,2005,sauber,Sauber,Swiss
+27958,72,7,12.0,2,2,0,2005,toyota,Toyota,Japanese
+27957,72,1,9.0,6,6,0,2005,mclaren,McLaren,British
+27956,72,3,10.0,5,5,0,2005,williams,Williams,British
+27955,72,9,11.0,3,3,0,2005,red_bull,Red Bull,Austrian
+27954,72,6,10.0,4,4,0,2005,ferrari,Ferrari,Italian
+27953,72,4,26.0,1,1,2,2005,renault,Renault,French
+6156,91,18,0.0,10,10,0,2004,minardi,Minardi,Italian
+6155,91,17,0.0,9,9,0,2004,jordan,Jordan,Irish
+6154,91,7,0.0,7,7,0,2004,toyota,Toyota,Japanese
+6153,91,19,0.0,8,8,0,2004,jaguar,Jaguar,British
+6152,91,15,1.0,6,6,0,2004,sauber,Sauber,Swiss
+6151,91,1,4.0,5,5,0,2004,mclaren,McLaren,British
+6150,91,16,9.0,4,4,0,2004,bar,BAR,British
+6149,91,3,17.0,2,2,0,2004,williams,Williams,British
+6148,91,4,14.0,3,3,0,2004,renault,Renault,French
+6147,91,6,33.0,1,1,2,2004,ferrari,Ferrari,Italian
+5997,109,7,0.0,9,9,0,2003,toyota,Toyota,Japanese
+5996,109,17,0.0,7,7,0,2003,jordan,Jordan,Irish
+5995,109,18,0.0,8,8,0,2003,minardi,Minardi,Italian
+5994,109,16,2.0,6,6,0,2003,bar,BAR,British
+5993,109,15,4.0,5,5,0,2003,sauber,Sauber,Swiss
+5992,109,4,16.0,3,3,0,2003,renault,Renault,French
+5991,109,6,16.0,2,2,0,2003,ferrari,Ferrari,Italian
+5990,109,3,14.0,4,4,0,2003,williams,Williams,British
+5989,109,1,26.0,1,1,2,2003,mclaren,McLaren,British
+5816,125,21,0.0,11,11,0,2002,arrows,Arrows,British
+5815,125,17,0.0,10,10,0,2002,jordan,Jordan,Irish
+5814,125,16,0.0,9,9,0,2002,bar,BAR,British
+5813,125,15,3.0,6,6,0,2002,sauber,Sauber,Swiss
+5812,125,4,3.0,5,5,0,2002,renault,Renault,French
+5811,125,7,1.0,8,8,0,2002,toyota,Toyota,Japanese
+5810,125,18,2.0,7,7,0,2002,minardi,Minardi,Italian
+5809,125,19,3.0,4,4,0,2002,jaguar,Jaguar,British
+5808,125,1,4.0,3,3,0,2002,mclaren,McLaren,British
+5807,125,3,22.0,1,1,1,2002,williams,Williams,British
+5806,125,6,14.0,2,2,1,2002,ferrari,Ferrari,Italian
+5634,142,3,2.0,5,5,0,2001,williams,Williams,British
+5633,142,22,0.0,10,10,0,2001,benetton,Benetton,Italian
+5632,142,18,0.0,11,11,0,2001,minardi,Minardi,Italian
+5631,142,21,0.0,6,6,0,2001,arrows,Arrows,British
+5630,142,20,0.0,9,9,0,2001,prost,Prost,French
+5629,142,19,0.0,8,8,0,2001,jaguar,Jaguar,British
+5628,142,16,0.0,7,7,0,2001,bar,BAR,British
+5627,142,17,5.0,3,3,0,2001,jordan,Jordan,Irish
+5626,142,15,4.0,4,4,0,2001,sauber,Sauber,Swiss
+5625,142,1,11.0,2,2,0,2001,mclaren,McLaren,British
+5624,142,6,30.0,1,1,2,2001,ferrari,Ferrari,Italian
+1622,174,6,170.0,1,1,10,2000,ferrari,Ferrari,Italian
+1623,174,3,36.0,3,3,0,2000,williams,Williams,British
+1624,174,16,20.0,5,5,0,2000,bar,BAR,British
+1625,174,22,20.0,4,4,0,2000,benetton,Benetton,Italian
+1626,174,18,0.0,10,10,0,2000,minardi,Minardi,Italian
+1627,174,20,0.0,11,11,0,2000,prost,Prost,French
+1628,174,17,17.0,6,6,0,2000,jordan,Jordan,Irish
+1629,174,21,7.0,7,7,0,2000,arrows,Arrows,British
+1630,174,1,162.0,2,2,7,2000,mclaren,McLaren,British
+1631,174,15,6.0,8,8,0,2000,sauber,Sauber,Swiss
+1632,174,19,4.0,9,9,0,2000,jaguar,Jaguar,British
+5602,189,16,0.0,11,11,0,1999,bar,BAR,British
+5601,189,15,4.0,8,8,0,1999,sauber,Sauber,Swiss
+5600,189,18,1.0,10,10,0,1999,minardi,Minardi,Italian
+5599,189,20,9.0,7,7,0,1999,prost,Prost,French
+5598,189,1,114.0,2,2,6,1999,mclaren,McLaren,British
+5597,189,21,1.0,9,9,0,1999,arrows,Arrows,British
+5596,189,24,36.0,4,4,1,1999,stewart,Stewart,British
+5595,189,22,16.0,6,6,0,1999,benetton,Benetton,Italian
+5594,189,3,33.0,5,5,0,1999,williams,Williams,British
+5593,189,17,58.0,3,3,2,1999,jordan,Jordan,Irish
+5592,189,6,118.0,1,1,6,1999,ferrari,Ferrari,Italian
+8541,2,6,0.0,10,10,0,2009,ferrari,Ferrari,Italian
+8540,2,9,1.5,7,7,0,2009,red_bull,Red Bull,Austrian
+8539,2,2,4.0,3,3,0,2009,bmw_sauber,BMW Sauber,German
+8538,2,10,0.0,9,9,0,2009,force_india,Force India,Indian
+8537,2,5,3.0,6,6,0,2009,toro_rosso,Toro Rosso,Italian
+8536,2,3,3.5,5,5,0,2009,williams,Williams,British
+8535,2,4,4.0,4,4,0,2009,renault,Renault,French
+8534,2,7,16.5,2,2,0,2009,toyota,Toyota,Japanese
+8533,2,1,1.0,8,8,0,2009,mclaren,McLaren,British
+8532,2,23,25.0,1,1,2,2009,brawn,Brawn,British
+25745,37,1,32.0,11,E,1,2007,mclaren,McLaren,British
+25744,37,6,23.0,1,1,1,2007,ferrari,Ferrari,Italian
+24256,339,6,76.0,1,1,1,2010,ferrari,Ferrari,Italian
+24257,339,1,66.0,2,2,1,2010,mclaren,McLaren,British
+24258,339,9,61.0,3,3,1,2010,red_bull,Red Bull,Austrian
+24259,339,131,44.0,4,4,0,2010,mercedes,Mercedes,German
+24260,339,10,18.0,6,6,0,2010,force_india,Force India,Indian
+24261,339,3,6.0,7,7,0,2010,williams,Williams,British
+24262,339,4,30.0,5,5,0,2010,renault,Renault,French
+24263,339,5,2.0,8,8,0,2010,toro_rosso,Toro Rosso,Italian
+24264,339,205,0.0,10,10,0,2010,lotus_racing,Lotus,Malaysian
+24265,339,15,0.0,9,9,0,2010,sauber,Sauber,Swiss
+24266,339,164,0.0,11,11,0,2010,hrt,HRT,Spanish
+24267,339,166,0.0,12,12,0,2010,virgin,Virgin,British
+24542,842,4,30.0,4,4,0,2011,renault,Renault,French
+24541,842,1,48.0,2,2,0,2011,mclaren,McLaren,British
+24540,842,9,72.0,1,1,2,2011,red_bull,Red Bull,Austrian
+24543,842,6,36.0,3,3,0,2011,ferrari,Ferrari,Italian
+24544,842,5,4.0,6,6,0,2011,toro_rosso,Toro Rosso,Italian
+24545,842,10,4.0,7,7,0,2011,force_india,Force India,Indian
+24546,842,205,0.0,9,9,0,2011,lotus_racing,Lotus,Malaysian
+24547,842,166,0.0,10,10,0,2011,virgin,Virgin,British
+24548,842,3,0.0,11,11,0,2011,williams,Williams,British
+24549,842,131,2.0,8,8,0,2011,mercedes,Mercedes,German
+24550,842,15,6.0,5,5,0,2011,sauber,Sauber,Swiss
+24551,842,164,0.0,12,12,0,2011,hrt,HRT,Spanish
+24777,861,1,55.0,1,1,1,2012,mclaren,McLaren,British
+24778,861,9,42.0,2,2,0,2012,red_bull,Red Bull,Austrian
+24779,861,6,35.0,3,3,1,2012,ferrari,Ferrari,Italian
+24780,861,15,30.0,4,4,0,2012,sauber,Sauber,Swiss
+24781,861,208,16.0,5,5,0,2012,lotus_f1,Lotus F1,British
+24782,861,5,6.0,8,8,0,2012,toro_rosso,Toro Rosso,Italian
+24783,861,10,9.0,6,6,0,2012,force_india,Force India,Indian
+24784,861,131,1.0,9,9,0,2012,mercedes,Mercedes,German
+24785,861,3,8.0,7,7,0,2012,williams,Williams,British
+24786,861,206,0.0,10,10,0,2012,marussia,Marussia,Russian
+24787,861,207,0.0,11,11,0,2012,caterham,Caterham,Malaysian
+24788,861,164,0.0,12,12,0,2012,hrt,HRT,Spanish
+25146,881,208,40.0,2,2,1,2013,lotus_f1,Lotus F1,British
+25147,881,6,40.0,3,3,0,2013,ferrari,Ferrari,Italian
+25148,881,9,66.0,1,1,1,2013,red_bull,Red Bull,Austrian
+25149,881,131,37.0,4,4,0,2013,mercedes,Mercedes,German
+25150,881,10,10.0,5,5,0,2013,force_india,Force India,Indian
+25151,881,1,4.0,7,7,0,2013,mclaren,McLaren,British
+25152,881,5,1.0,8,8,0,2013,toro_rosso,Toro Rosso,Italian
+25153,881,15,4.0,6,6,0,2013,sauber,Sauber,Swiss
+25154,881,3,0.0,9,9,0,2013,williams,Williams,British
+25155,881,206,0.0,10,10,0,2013,marussia,Marussia,Russian
+25156,881,207,0.0,11,11,0,2013,caterham,Caterham,Malaysian
+25754,37,12,0.0,10,10,0,2007,spyker,Spyker,Dutch
+25943,901,1,43.0,2,2,0,2014,mclaren,McLaren,British
+25942,901,131,68.0,1,1,2,2014,mercedes,Mercedes,German
+25944,901,6,30.0,3,3,0,2014,ferrari,Ferrari,Italian
+25945,901,3,20.0,4,4,0,2014,williams,Williams,British
+25946,901,10,19.0,5,5,0,2014,force_india,Force India,Indian
+25947,901,5,7.0,7,7,0,2014,toro_rosso,Toro Rosso,Italian
+25948,901,15,0.0,8,8,0,2014,sauber,Sauber,Swiss
+25949,901,206,0.0,11,11,0,2014,marussia,Marussia,Russian
+25950,901,208,0.0,9,9,0,2014,lotus_f1,Lotus F1,British
+25951,901,207,0.0,10,10,0,2014,caterham,Caterham,Malaysian
+25952,901,9,15.0,6,6,0,2014,red_bull,Red Bull,Austrian
+26149,927,131,76.0,1,1,1,2015,mercedes,Mercedes,German
+26150,927,6,52.0,2,2,1,2015,ferrari,Ferrari,Italian
+26151,927,3,30.0,3,3,0,2015,williams,Williams,British
+26152,927,15,14.0,4,4,0,2015,sauber,Sauber,Swiss
+26153,927,9,11.0,6,6,0,2015,red_bull,Red Bull,Austrian
+26154,927,10,7.0,7,7,0,2015,force_india,Force India,Indian
+26155,927,5,12.0,5,5,0,2015,toro_rosso,Toro Rosso,Italian
+26156,927,1,0.0,9,9,0,2015,mclaren,McLaren,British
+26157,927,208,0.0,8,8,0,2015,lotus_f1,Lotus F1,British
+26158,927,209,0.0,10,10,0,2015,manor,Manor Marussia,British
+26623,963,131,553.0,1,1,14,2016,mercedes,Mercedes,German
+26624,963,6,313.0,3,3,0,2016,ferrari,Ferrari,Italian
+26625,963,9,359.0,2,2,2,2016,red_bull,Red Bull,Austrian
+26626,963,3,121.0,5,5,0,2016,williams,Williams,British
+26627,963,210,28.0,8,8,0,2016,haas,Haas F1 Team,American
+26628,963,10,124.0,4,4,0,2016,force_india,Force India,Indian
+26629,963,5,47.0,7,7,0,2016,toro_rosso,Toro Rosso,Italian
+26630,963,4,8.0,9,9,0,2016,renault,Renault,French
+26631,963,1,62.0,6,6,0,2016,mclaren,McLaren,British
+26632,963,15,0.0,11,11,0,2016,sauber,Sauber,Swiss
+26633,963,209,1.0,10,10,0,2016,manor,Manor Marussia,British
+26873,983,6,385.0,2,2,4,2017,ferrari,Ferrari,Italian
+26874,983,131,503.0,1,1,9,2017,mercedes,Mercedes,German
+26875,983,9,270.0,3,3,2,2017,red_bull,Red Bull,Austrian
+26876,983,3,65.0,5,5,0,2017,williams,Williams,British
+26877,983,10,133.0,4,4,0,2017,force_india,Force India,Indian
+26878,983,5,52.0,6,6,0,2017,toro_rosso,Toro Rosso,Italian
+26879,983,4,42.0,7,7,0,2017,renault,Renault,French
+26880,983,15,5.0,10,10,0,2017,sauber,Sauber,Swiss
+26881,983,1,23.0,9,9,0,2017,mclaren,McLaren,British
+26882,983,210,37.0,8,8,0,2017,haas,Haas F1 Team,American
+27962,72,18,0.0,9,9,0,2005,minardi,Minardi,Italian
