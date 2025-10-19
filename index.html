@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>The Malaysian Grand Prix: A Data Journey (1999-2017)</title>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- INTRODUCTION -->
+  <section id="intro">
+    <h1>The Malaysian Grand Prix: A Data Journey (1999-2017)</h1>
+    <p>
+      The <strong>Malaysian Grand Prix</strong> was a major international motorsport event held annually from 1999 to 2017. 
+      It took place at the <strong>Sepang International Circuit</strong>, a racetrack near Kuala Lumpur known for its 
+      unpredictable tropical weather and technical, high-speed turns.  
+      <br><br>
+      This page uses interactive visualizations to help you explore the race's history - from the location of the circuit, to 
+      its race winners, fastest speeds, and team rivalries over nearly two decades.
+    </p>
+  </section>
+
+  <!-- MAP -->
+  <section id="map">
+    <h2>📍 Where It All Happened</h2>
+    <div id="vis-map"></div>
+    <p>
+      The <strong>Sepang International Circuit</strong> is located in <strong>Sepang, Malaysia</strong>, close to the Kuala Lumpur 
+      International Airport. Designed by renowned engineer Hermann Tilke, this circuit hosted every Malaysian Grand Prix 
+      from 1999 to 2017.  
+      <br><br>
+      The map below shows where the circuit sits within Malaysia and the surrounding region.
+    </p>
+  </section>
+
+  <!-- TIMELINE -->
+  <section id="timeline">
+    <h2>🏆 Who Won Each Year?</h2>
+    <div id="vis-timeline"></div>
+    <p>
+      Each race crowned a single winner - but patterns emerge over time.  
+      This visualization shows <strong>which driver</strong> won each year, along with their <strong>nationality</strong> 
+      and <strong>team affiliation</strong>.  
+      <br><br>
+      You'll notice shifts in dominance as car technology, team strategies, and weather conditions evolved.
+    </p>
+  </section>
+
+  <!-- CONSTRUCTORS -->
+  <section id="constructors">
+    <h2>🏎️ Which Teams Ruled Sepang?</h2>
+    <div id="vis-constructors"></div>
+    <p>
+      In Formula 1, “constructors” are the teams that design and build the cars - such as Ferrari, Red Bull, and Mercedes.  
+      <br><br>
+      This chart compares their total <strong>race wins</strong> and <strong>podium finishes</strong> (top 3 results) 
+      at the Malaysian Grand Prix, revealing how team performance shifted through different eras.
+    </p>
+  </section>
+
+  <!-- SCATTER -->
+  <section id="scatter">
+    <h2>⚙️ Does Starting First Guarantee Victory?</h2>
+    <div id="vis-scatter"></div>
+    <p>
+      Drivers compete for the best starting position during a separate “qualifying” session.  
+      <br><br>
+      This chart explores whether <strong>starting in pole position (1st on the grid)</strong> actually led to winning the race, 
+      or if unpredictable weather, mistakes, and reliability made outcomes less certain at Sepang.
+    </p>
+  </section>
+
+  <!-- HEATMAP -->
+  <section id="heatmap">
+    <h2>🔥 The Speed Evolution</h2>
+    <div id="vis-heatmap"></div>
+    <p>
+      Formula 1 cars have become faster and more efficient over the years.  
+      <br><br>
+      This heatmap tracks how the <strong>fastest lap speed</strong> - the quickest single lap completed in each race - 
+      changed from 1999 to 2017.  
+      <br>
+      Variations in speed reflect advancements in car design, tire technology, and weather conditions on race day.
+    </p>
+  </section>
+
+  <!-- CONCLUSION -->
+  <section id="conclusion">
+    <h2>📊 What the Data Reveals</h2>
+    <p>
+      The Malaysian Grand Prix combined heat, humidity, and high-speed strategy - often producing dramatic and 
+      unpredictable races.  
+      <br><br>
+      Through these visualizations, you can see how driver skill, team innovation, and evolving car technology 
+      shaped the event's history from its exciting debut in 1999 to its farewell in 2017.  
+      <br><br>
+    </p>
+  </section>
+
+  <script type="text/javascript">
+    vegaEmbed('#vis-map', 'visualizations/map.json');
+    vegaEmbed('#vis-timeline', 'visualizations/timeline.json');
+    vegaEmbed('#vis-constructors', 'visualizations/constructors.json');
+    vegaEmbed('#vis-scatter', 'visualizations/scatter.json');
+    vegaEmbed('#vis-heatmap', 'visualizations/heatmap.json');
+  </script>
+
+</body>
+</html>
