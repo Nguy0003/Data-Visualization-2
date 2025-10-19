@@ -1,0 +1,72 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Change in position from start to finish for each driver in Malaysian GP.",
+  "width": 700,
+  "height": 500,
+  "data": {"url": "data_cleaned/results_mm.csv"},
+  "transform": [
+    {"filter": "datum.grid > 0 && datum.position > 0"},
+    {
+      "fold": ["grid", "position"],
+      "as": ["stage", "value"]
+    },
+    {
+      "calculate": "datum.stage == 'grid' ? 'Start' : 'Finish'",
+      "as": "stageLabel"
+    },
+    {
+      "filter": "datum.year == yearFilter"
+    }
+  ],
+  "params": [
+    {
+      "name": "yearFilter",
+      "value": 2017,
+      "bind": {
+        "input": "select",
+        "options": [1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017],
+        "name": "Select Year: "
+      }
+    }
+  ],
+  "mark": {
+    "type": "line",
+    "point": {"filled": true, "size": 60},
+    "opacity": 0.9
+  },
+  "encoding": {
+    "x": {
+      "field": "stageLabel",
+      "type": "nominal",
+      "title": "",
+      "sort": ["Start", "Finish"],
+      "axis": {"labelAngle": 0}
+    },
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "title": "Position",
+      "scale": {"reverse": true, "domain": [1, 22]},
+      "axis": {"tickMinStep": 1, "tickCount": 22}
+    },
+    "color": {
+      "field": "position",
+      "type": "quantitative",
+      "title": "Finishing Position",
+      "scale": {
+        "scheme": "turbo",
+        "reverse": true,
+        "domain": [1, 22]
+      }
+    },
+    "tooltip": [
+      {"field": "year", "title": "Year"},
+      {"field": "driverName", "title": "Driver"},
+      {"field": "constructorName", "title": "Team"}
+    ]
+  },
+  "config": {
+    "axis": {"labelFontSize": 12, "titleFontSize": 13},
+    "view": {"stroke": null}
+  }
+}
